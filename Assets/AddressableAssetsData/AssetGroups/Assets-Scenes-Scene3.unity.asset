@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets-Scenes-Scene3.unity
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets-Scenes-Scene3.unity
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 28b02bf2ec140c242970edb8790a53b3
+  m_SerializeEntries:
+  - m_GUID: 3dbc0d4f226e3ee44b864a74b6e6e72c
+    m_Address: Assets/Scenes/Scene3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AllAddressables
+    m_mainAssetType: UnityEditor.SceneAsset, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 81632bb8764f5214f8a42ddb60b88ee6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9a5a18b574735d549bd7089bcf4a7644, type: 2}
+    - {fileID: 11400000, guid: fea507566faae314bb45574834cd34d2, type: 2}
